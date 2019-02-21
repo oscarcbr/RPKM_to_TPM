@@ -21,6 +21,3 @@ Example:
 
 python RPKM_to_TPM_rpkmforgenes.py ensembl_rpkms_DEC13A.txt
 
-Check:
-
-md5sum ensembl_rpkms_DEC13A.txt.tpm == b07a1ff2594e62130c830808915d1070
